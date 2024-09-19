@@ -1,2 +1,4 @@
 /data/**
 *.h5
+*.keras
+model_architecture.json
