@@ -16,3 +16,10 @@ The dataset contains 2,148 high-resolution images of pistachio nuts. The images 
 ## Freamworks we ara going to use
 
 1. TensorFlow And Keras
+
+## Result
+
+| Model Name                      | Test set Accuracy |
+| ------------------------------- | ----------------- |
+| Custom CNN                      | 67%               |
+| Transfer learning with ResNet35 | 96.8%             |
