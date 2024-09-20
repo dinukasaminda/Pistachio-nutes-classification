@@ -19,7 +19,7 @@ The dataset contains 2,148 high-resolution images of pistachio nuts. The images 
 
 ## Result
 
-| Model Name                      | Accuracy |
-| ------------------------------- | -------- |
-| Custom CNN                      | 67%      |
-| Transfer learning with ResNet35 | 96.8%    |
+| Model Name                      | Test set Accuracy |
+| ------------------------------- | ----------------- |
+| Custom CNN                      | 67%               |
+| Transfer learning with ResNet35 | 96.8%             |
