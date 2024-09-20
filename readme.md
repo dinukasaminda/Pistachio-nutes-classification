@@ -12,7 +12,8 @@ The dataset contains 2,148 high-resolution images of pistachio nuts. The images 
 
 1.  Custom Convolutional Neural Networks (CNN)
 2.  Transfer Learning with VGG16
-3.  Transfer Learning with ResNet50
+3.  Fully Learning with ResNet50
+4.  Transfer Learning with ResNet50
 
 ## Freamworks we ara going to use
 
