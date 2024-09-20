@@ -10,9 +10,16 @@ The dataset contains 2,148 high-resolution images of pistachio nuts. The images 
 
 ## Classification methods
 
-1.  Custom Convolutional Neural Networks (CNN) : Achieved 67% accuracy
-2.  Transfer Learning with ResNet35 : Achieved 96.8% accuracy
+1.  Custom Convolutional Neural Networks (CNN)
+2.  Transfer Learning with ResNet35
 
 ## Freamworks we ara going to use
 
 1. TensorFlow And Keras
+
+## Result
+
+| Model Name                      | Accuracy |
+| ------------------------------- | -------- |
+| Custom CNN                      | 67%      |
+| Transfer learning with ResNet35 | 96.8%    |
